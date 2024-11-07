@@ -45,7 +45,9 @@
     <Compile Include="PostLoggerHttpModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Updated_IPBan_RDWeb_Recipe.txt" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="LICENSE" />
     <None Include="PrecompiledDLL\RdpDomainUserNameLogger.dll" />
