@@ -51,6 +51,7 @@
   <ItemGroup>
     <None Include="LICENSE" />
     <None Include="PrecompiledDLL\RdpDomainUserNameLogger.dll" />
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
